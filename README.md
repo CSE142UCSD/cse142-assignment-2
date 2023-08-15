@@ -1,7 +1,7 @@
 # Introduction to the Development Environment
 
 
-This assignment is in a Jupyter notebook (`assignment1.ipynb`).  To run it'll you'll need to
+This assignment is in a Jupyter notebook (`assignment2.ipynb`).  To run it'll you'll need to
 check out the assignment.
 
 This document describe how to do those two things.  Then, you'll be able to
